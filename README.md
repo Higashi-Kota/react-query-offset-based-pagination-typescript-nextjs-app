@@ -1,0 +1,1 @@
+# react-query-offset-based-pagination-typescript-nextjs-app
